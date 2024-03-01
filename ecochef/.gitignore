@@ -1,0 +1,9 @@
+.env
+__pycache__/
+mobile_app/build/
+mobile_app/.flutter_tool_state
+mobile_app/ios/Flutter/.symlinks/
+mobile_app/android/.gradle/
+data/ingredient_library/*.csv
+data/recipe_datasets/*.json
+models/*.tflite
